@@ -53,9 +53,9 @@
     },
     {
             "id": 6,
-            "name": "LLanta Michelin 91V",
+            "name": "LLanta Michelin",
             "model": "91V",
-            "description": "La llanta Continental 205/55 R16 MICHELIN PRIMACY 4 91V se caracteriza por Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
+            "description": "La llanta Continental 205/55 R16 MICHELIN 91V se caracteriza por Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
             "price": 2250,
             "size": "205/55 R16",
             "img": "6.png",
@@ -64,9 +64,9 @@
     ,
     {
             "id": 7,
-            "name": "LLanta YOKOHAMA G91A",
+            "name": "LLanta YOKOHAMA",
             "model": "G91A",
-            "description": "La llanta Continental 225/65 R17 YOKOHAMA G91A 100H se caracteriza por  Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
+            "description": "La llanta YOKOHAMA G91A se caracteriza por  Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
             "price": 2000,
             "size": "225/65 R17",
             "img": "7.png",
@@ -75,7 +75,7 @@
     ,
     {
             "id": 8,
-            "name": "LLanta Sumitomo HTR",
+            "name": "LLanta Sumitomo",
             "model": "HTR",
             "description": "La llanta Sumitomo HTR se caracteriza por  Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
             "price": 2900,
