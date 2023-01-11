@@ -18,7 +18,7 @@
             "price": 2250,
             "size": "15X7 4-100/108",
             "img": "2.png",
-            "category" : "llantas"
+            "category" : "rines"
     },
     {
             "id": 3,
@@ -28,7 +28,7 @@
             "price": 1340,
             "size": "13X5.5 4-100",
             "img": "3.png",
-            "category" : "llantas"
+            "category" : "rines"
     },
     {
             "id": 4,
@@ -50,6 +50,38 @@
             "size": "22X9 5-130",
             "img": "5.png",
             "category" : "rines"
+    },
+    {
+            "id": 6,
+            "name": "LLanta Michelin 91V",
+            "model": "91V",
+            "description": "La llanta Continental 205/55 R16 MICHELIN PRIMACY 4 91V se caracteriza por Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
+            "price": 2250,
+            "size": "205/55 R16",
+            "img": "4.png",
+            "category" : "llantas"
+    }
+    ,
+    {
+            "id": 7,
+            "name": "LLanta YOKOHAMA G91A",
+            "model": "G91A",
+            "description": "La llanta Continental 225/65 R17 YOKOHAMA G91A 100H se caracteriza por  Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
+            "price": 2000,
+            "size": "225/65 R17",
+            "img": "7.png",
+            "category" : "llantas"
+    }
+    ,
+    {
+            "id": 8,
+            "name": "LLanta Sumitomo HTR",
+            "model": "HTR",
+            "description": "La llanta Sumitomo HTR se caracteriza por  Manifestar un frenado de primera, ya que continua frenando en caminos mojados a una distancia menor que la competencia.",
+            "price": 2900,
+            "size": "225/45 R17",
+            "img": "8.png",
+            "category" : "llantas"
     }
 ]
 
